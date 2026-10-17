@@ -2,7 +2,7 @@ const profile = {
     name: 'Botchwey Michael',
     title: 'Information Technology student and a Web developer',
     tagline: 'I build simple but functional and useful web app for real people',
-    photo: 'public/1.jpeg',
+    photo: '/1.jpeg',
     about: 'I am a Level 300 Computer Science student at Bluecrest College. I enjoy turning ideas into working software,' +
         'especially web and mobile apps that solve everyday problems in Ghana.',
     location: 'Accra, Ghana',
