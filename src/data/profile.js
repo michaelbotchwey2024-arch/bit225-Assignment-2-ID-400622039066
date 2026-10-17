@@ -8,6 +8,7 @@ const profile = {
     location: 'Accra, Ghana',
     email: 'michealbotchwey2024 @gmail.com',
     phone: '0536689507',
+    rollnumber:'400622039066',
 
     // path to the CV inside the public folder
     cv: '/Botchwey-Michael-CV.pdf',
