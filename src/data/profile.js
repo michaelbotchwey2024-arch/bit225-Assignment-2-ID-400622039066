@@ -6,7 +6,7 @@ const profile = {
     about: 'I am a Level 300 Computer Science student at Bluecrest College. I enjoy turning ideas into working software,' +
         'especially web and mobile apps that solve everyday problems in Ghana.',
     location: 'Accra, Ghana',
-    email: 'michealbotchwey2024 @gmail.com',
+    email: 'michealbotchwey2024@gmail.com',
     phone: '0536689507',
     rollnumber:'400622039066',
 
