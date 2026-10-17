@@ -33,19 +33,19 @@ const profile = {
             title: 'Div-Furniture',
             description: 'A web app where customers can easily search for furniture to buy at affordable rates.',
             tech: ['React', 'CSS', 'Firebase'],
-            link: 'div-furn.netlify.app',
+          link: 'https://div-furn.netlify.app/',
         },
         {
             title: 'Core Bundle',
             description: 'A marketplace where clients can discover designers, view their work, purchase designs, and communicate with designers.',
             tech: ['React', 'CSS', 'Node.js', 'MongoDB'],
-            link: 'corebundle.netlify.app',
+           link: 'https://corebundle.netlify.app/',
         },
         {
             title: 'Kanto Market',
             description: 'A web app that helps users discover upcoming events, explore event details, and find events happening near them.',
             tech: ['React', 'CSS', 'Firebase'],
-            link: 'kantomarket.netlify.app',
+            link: 'https://kantomarket.netlify.app/',
         },
         {
             title: 'Portfolio',
