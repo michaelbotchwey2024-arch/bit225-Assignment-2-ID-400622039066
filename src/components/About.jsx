@@ -7,6 +7,7 @@ function About({ profile }) {
                 <li><strong>Location:</strong> {profile.location}</li>
                 <li><strong>Email:</strong> {profile.email}</li>
                 <li><strong>Phone:</strong> {profile.phone}</li>
+                <li><strong>Roll number:</strong> {profile.rollnumber}</li>
             </ul>
         </section>
     );
