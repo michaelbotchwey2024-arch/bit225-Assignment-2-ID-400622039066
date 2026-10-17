@@ -33,25 +33,25 @@ const profile = {
             title: 'Div-Furniture',
             description: 'A web app where customers can easily search for furniture to buy at affordable rates.',
             tech: ['React', 'CSS', 'Firebase'],
-            link: 'https://github.com/your-username/div-furniture',
+            link: 'div-furn.netlify.app',
         },
         {
-            title: 'Find A Designer',
+            title: 'Core Bundle',
             description: 'A marketplace where clients can discover designers, view their work, purchase designs, and communicate with designers.',
             tech: ['React', 'CSS', 'Node.js', 'MongoDB'],
-            link: 'https://github.com/your-username/find-a-designer',
+            link: 'corebundle.netlify.app',
         },
         {
-            title: 'Event Finder',
+            title: 'Kanto Market',
             description: 'A web app that helps users discover upcoming events, explore event details, and find events happening near them.',
             tech: ['React', 'CSS', 'Firebase'],
-            link: 'https://github.com/your-username/event-finder',
+            link: 'kantomarket.netlify.app',
         },
         {
-            title: 'BlueLib Catalogue',
+            title: 'Portfolio',
             description: 'A digital library catalogue where students can search for books, filter by category, and manage book borrowing.',
             tech: ['HTML', 'CSS', 'JavaScript'],
-            link: 'https://michaelbotchwey2024-arch.github.io/bit225-assignment2-ID-400622039066/',
+            link: 'https://chemicalgasinto.github.io/new-portfolio/',
         },
     ],
     socials: [{
@@ -60,7 +60,7 @@ const profile = {
         },
         {
             label: 'LinkedIn',
-            url: 'https://linkedin.com/in/your-username'
+            url: 'https://www.linkedin.com/in/michael-botchwey-967463356?utm_source=share_via&utm_content=profile&utm_medium=member_ios'
         },
     ],
 
