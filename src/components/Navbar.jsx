@@ -47,7 +47,7 @@ function Navbar({ name, theme, onToggleTheme }) {
                     onClick={onToggleTheme}
                     aria-label="Toggle theme"
                 >
-                    <i className={theme === 'light' ? 'bx bx-🌙 ' : 'bx bx-☀️ '}></i>
+                    <i className={theme === 'light' ? 🌙  : ☀️ }></i>
                 </button>
 
             </nav>
